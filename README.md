@@ -16,3 +16,10 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+To get the project, 
+-->Install javaFX and set up in VScode by seeing any YT tutorial
+--> Create a new Java project in VScode and import all JavaFX libraries
+--> Open the TictacToe.java file in my Github Repostory and copy the code
+--> Create a file tictacToe.java and paste the code over there
+--> run the code and you are good to go!!!
